@@ -1,0 +1,62 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-image: url('img/q.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+  text-align: center;
+}
+
+body {
+  background-color: pink;
+}
+
+a {
+  text-decoration: none;
+  font-size: 25px;
+  color: pink;
+  margin-right: 25px;
+}
+
+form {
+  margin: 5%;
+}
+
+select {
+  font-size: 20px;
+  background-color: lavender;
+  border-radius: 5%;
+  border: .2em outset #9f90b9;
+}
+
+input {
+  font-size: 20px;
+  background-color: lavender;
+  border-radius: 5%;
+  border: .2em outset #9f90b9;
+}
+
+button {
+  font-size: 20px;
+  background-color: lavender;
+  border-radius: 5%;
+  border: .2em outset #9f90b9;
+}
+
+.main {
+  display: flex;
+  justify-content: space-around;
+}
+
+h2, h4 {
+  color: paleturquoise;
+  font-size: 25px;
+}
+
+span {
+  font-size: 40px;
+  font-weight: bold;
+  color: ivory;
+}

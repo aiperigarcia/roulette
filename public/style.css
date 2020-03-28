@@ -1,0 +1,45 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-image: url('img/q.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+h1 {
+  color: pink;
+}
+
+.btn {
+  font-size: 15px;
+  background-color: lavender;
+  border-radius: 5%;
+  border: .2em outset #9f90b9;
+}
+
+table {
+  width: 100%;
+  text-align: center;
+}
+
+td {
+  width: 30%;
+  border: 3px dashed #8c6378;
+  padding: 1rem;
+  border-radius: 4px;
+  color: deepskyblue;
+  font-size: 22px;
+  font-weight: bold;
+}
+
+span {
+  color: black;
+  font-size: 25px;
+  font-weight: bold
+}
+
+body {
+  background-color: pink;
+}
