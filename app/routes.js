@@ -1,3 +1,5 @@
+//Worked with mentor Teddy and Sebastian.
+
 module.exports = function(app, passport, db) {
 
 // normal routes ===============================================================

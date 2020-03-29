@@ -1,4 +1,4 @@
-//Worked with Teddy and Sebastian.
+//Worked with mentor Teddy and Sebastian.
 
 // server.js
 
